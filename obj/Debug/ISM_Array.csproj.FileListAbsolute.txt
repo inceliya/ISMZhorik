@@ -1,0 +1,7 @@
+D:\Users10\Александр\Desktop\ISM\Массивы\ISM_Array\ISM_Array\bin\Debug\ISM_Array.exe.config
+D:\Users10\Александр\Desktop\ISM\Массивы\ISM_Array\ISM_Array\bin\Debug\ISM_Array.exe
+D:\Users10\Александр\Desktop\ISM\Массивы\ISM_Array\ISM_Array\bin\Debug\ISM_Array.pdb
+D:\Users10\Александр\Desktop\ISM\Массивы\ISM_Array\ISM_Array\obj\Debug\ISM_Array.csprojAssemblyReference.cache
+D:\Users10\Александр\Desktop\ISM\Массивы\ISM_Array\ISM_Array\obj\Debug\ISM_Array.csproj.CoreCompileInputs.cache
+D:\Users10\Александр\Desktop\ISM\Массивы\ISM_Array\ISM_Array\obj\Debug\ISM_Array.exe
+D:\Users10\Александр\Desktop\ISM\Массивы\ISM_Array\ISM_Array\obj\Debug\ISM_Array.pdb
